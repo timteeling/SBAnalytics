@@ -1,5 +1,7 @@
 SBAnalytics
 ===========
+by Carl Franzon  
+forked by Tim Teeling
 
 ## Contents
 - SBAnalytics.php - displays overall pageviews and visits from last 7 days
